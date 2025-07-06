@@ -1,0 +1,52 @@
+html, body{
+    margin: 0;
+    height: 100%;
+    font-size: 20px;
+    font-weight: 400;
+}
+.bimg1{
+    background-image: url(images/360_F_712789443_OnWllwUZcqRW3223voVdpyF8Gs7xl0v2.jpg);
+    min-height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.bimg2{
+    background-image: url(images/abstract-background-with-glowing-wave-shiny-moving-lines-design-element-futuristic-technology-concept-free-photo.jpg);
+    min-height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.bimg3{
+    background-image: url(images/golden-glow-yellow-watercolor-background-your-design_957479-46068.avif);
+    min-height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.btext1, .btext2, .btext3{
+      position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: black;
+  font-size: 27px;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+}
+
+
+.textbg1, .textbg2, .textbg3 {
+  background: #b4cfc8;
+  padding: 20px;
+}
